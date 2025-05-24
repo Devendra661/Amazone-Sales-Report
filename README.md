@@ -31,6 +31,7 @@
 - **Custom Filtering & Drilldowns**: Users can zoom into specific product categories, seasonal sales, and discount impacts.
 
 ## 💎 Screenshot / Demo
+(https://github.com/Devendra661/Amazone-Sales-Report/blob/main/Amazone_Sales_Report.png)
 
 
 ⚡ This dashboard is a **game-changer** for analysts, businesses, and e-commerce strategists aiming to unlock the full potential of **Amazon’s sales data**! 📦📈
